@@ -1,0 +1,23 @@
+{
+  "name": "adjust-sugar",
+  "version": "1.0.0",
+  "description": "adjust sugar",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nda-lab/adjsut-sugar.git"
+  },
+  "keywords": [
+    "ci",
+    "cd"
+  ],
+  "author": "nda-lab",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nda-lab/adjsut-sugar/issues"
+  },
+  "homepage": "https://github.com/nda-lab/adjsut-sugar#readme"
+}
