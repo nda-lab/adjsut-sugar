@@ -1,12 +1,12 @@
 {
   "name": "adjust-sugar",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "adjust sugar",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "preinstall": "npm install axios dotenv",
-    "postinstall": "cd .. && cd .. && node node_modules/adjust-sugar/addSugar.js"
+    "postinstall": "cd .. && cd .. && node node_modules/adjsut-sugar/addSugar.js"
   },
   "repository": {
     "type": "git",
