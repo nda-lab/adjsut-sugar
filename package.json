@@ -1,6 +1,6 @@
 {
   "name": "adjust-sugar",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "adjust sugar",
   "main": "index.js",
   "scripts": {
